@@ -2,9 +2,9 @@
 
 ## A **Fallout** themed note application named Memovintage that can save, delete, download, sort by date or pattern and search a note by specific pattern.
 
-![vault boy](assets/imageslogo.png)
+![vault boy](assets/images/logo.png)
 
-The note app was designed and angineered by
+The note app was designed and engineered by
 - STD24202
 - STD24211
 
